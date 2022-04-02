@@ -1,0 +1,136 @@
+body{
+    background-color: whitesmoke;
+
+}
+
+.Body{
+    position: absolute;
+    background-color: #cca1f6;
+    opacity: 0.95;
+    width: 760px;
+    height: 1500px;
+    top: 460px;
+    left: 30%;
+}
+
+.newsTools{
+    position: absolute;
+    background-color: #ffe8e8;
+    width: 760px;
+    height: 150px;
+    top: -175px;
+    
+}
+
+.newsBlockImg1{
+    width: 150px;
+    height: 110px;
+    background-image: url(https://tapcompany.org/wp-content/uploads/2019/04/Lorem-ipsum.png);
+    background-size: 130%;
+    background-repeat: no-repeat;
+    background-position: center;
+    
+    background-color: azure;
+    margin: 50px;
+
+}
+
+.newsBlockText1{
+    position: relative;
+    width: 450px;
+    height: 110px;
+    background-color: azure;
+  
+    right: -200px;
+    
+}
+
+.newsBlockImg2{
+    background-image: url(https://tapcompany.org/wp-content/uploads/2019/04/Lorem-ipsum.png);
+    background-size: 130%;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 150px;
+    height: 110px;
+    background-color: azure;
+    margin: 50px;
+
+}
+
+.newsBlockText2{
+    position: relative;
+    width: 450px;
+    height: 110px;
+    background-color: azure;
+   
+    right: -200px;
+    
+}
+
+.newsBlockImg3{
+    background-image: url(https://tapcompany.org/wp-content/uploads/2019/04/Lorem-ipsum.png);
+    background-size: 130%;
+    background-repeat: no-repeat;
+    background-position: center;
+
+    width: 150px;
+    height: 110px;
+    background-color: azure;
+    margin: 50px;
+
+}
+
+.newsBlockText3{
+    position: relative;
+    width: 450px;
+    height: 110px;
+    background-color: azure;
+  
+    right: -200px;
+    
+}
+
+.newsBlockImg4{
+    background-image: url(https://tapcompany.org/wp-content/uploads/2019/04/Lorem-ipsum.png);
+    background-size: 130%;
+    background-repeat: no-repeat;
+    background-position: center;
+
+    width: 150px;
+    height: 110px;
+    background-color: azure;
+    margin: 50px;
+
+}
+
+.newsBlockText4{
+    position: relative;
+    width: 450px;
+    height: 110px;
+    background-color: azure;
+    
+    right: -200px;
+}
+
+.newsBlockImg5{
+    background-image: url(https://tapcompany.org/wp-content/uploads/2019/04/Lorem-ipsum.png);
+    background-size: 130%;
+    background-repeat: no-repeat;
+    background-position: center;
+
+    width: 150px;
+    height: 110px;
+    background-color: azure;
+    margin: 50px;
+
+}
+
+.newsBlockText5{
+    position: relative;
+    width: 450px;
+    height: 110px;
+    background-color: azure;
+    
+    right: -200px;
+}
+
